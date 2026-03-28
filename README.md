@@ -21,9 +21,8 @@ I'm a full-stack engineer with 12+ years of experience building products across 
 | 💬 **Ask me about** | Laravel · React/TypeScript · Shopify integrations · Node.js |
 | 🤝 **Open to** | Collaborations, freelance, and interesting open source work |
 | 📫 **Reach me** | [linkedin.com/in/mubin-khalid](https://linkedin.com/in/mubin-khalid) |
-
 ---
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## 🧰 Tech Stack
 
 <details open>
