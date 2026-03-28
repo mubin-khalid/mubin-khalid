@@ -153,12 +153,6 @@ I'm a full-stack engineer with 12+ years of experience building products across 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mubin-khalid&theme=radical&no-frame=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mubin-khalid&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 </div>
